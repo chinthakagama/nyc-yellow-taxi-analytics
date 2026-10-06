@@ -331,7 +331,7 @@ nyc_taxi_project/
 │   ├── 05_zone_enrichment.sql
 │   ├── 06_business_analysis.sql
 │   ├── 07_powerbi_reporting.sql
-│   └── development_archive/
+│    
 │
 └── docs/
 ```
