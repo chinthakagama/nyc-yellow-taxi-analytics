@@ -1,0 +1,29 @@
+# Large raw data files
+*.parquet
+
+# Database backups
+*.backup
+*.dump
+
+# Python cache / environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Credentials and environment variables
+.env
+.env.*
+config.ini
+
+# Power BI temporary files
+~$*
+*.tmp
+
+# Windows / editor files
+Thumbs.db
+.DS_Store
+
+# Local SQL development history
+sql/development_archive/
+sql/development_sql_review.txt
